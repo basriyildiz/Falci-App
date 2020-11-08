@@ -1,4 +1,11 @@
-# falci_app
+# Falcı App
+
+This is my first flutter app, actually my first app.
+
+![alt text](https://eplier.com/wp-content/uploads/2020/11/Screenshot_1604849817.png)
+![alt text](https://eplier.com/wp-content/uploads/2020/11/Screenshot_1604849674.png)
+![alt text](https://eplier.com/wp-content/uploads/2020/11/Screenshot_1604849793.png)
+![alt text](https://eplier.com/wp-content/uploads/2020/11/Screenshot_1604849797.png)
 
 A new Flutter project.
 
